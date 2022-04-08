@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OORDIT
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning WEB DEV
